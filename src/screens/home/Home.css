@@ -1,0 +1,13 @@
+#cards-grid-list {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+#comment-div {
+    margin-top: 5px;
+    position: relative;
+    width: 100%;
+}
